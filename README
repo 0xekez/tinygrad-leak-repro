@@ -1,0 +1,8 @@
+To reproduce the leak:
+
+```
+pip install -r requirements.txt
+python3 nca.py
+```
+
+the model is from https://distill.pub/selforg/2021/textures
